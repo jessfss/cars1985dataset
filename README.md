@@ -1,4 +1,7 @@
 ## 1985 Cars Dataset Analysis – Q&A Format
+
+This is an exercise from Lear R on Codecademy.
+
 This project explores the 1985 Cars dataset from the UCI Machine Learning Repository in a step-by-step Q&A format, using tidyverse tools in R. The goal is to clean, explore, and filter the data to choose a car for your collection based on highway mileage, engine size, and brand preference.
 
 1. What good is an analysis if we don’t even have the tools to perform the said analysis?
