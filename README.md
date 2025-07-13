@@ -1,4 +1,4 @@
-## 1985 Cars Dataset Analysis – Q&A Format
+## 1985 Cars Dataset Analysis
 
 This is an exercise from Lear R on Codecademy.
 
